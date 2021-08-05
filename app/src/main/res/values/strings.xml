@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Белгород - путеводитель</string>
+    <string name="title_entertainment">Развлечения</string>
+    <string name="title_about_me">Профиль</string>
+    <string name="title_store">Магазин</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rating">Рейтинг пользователя:</string>
+    <string name="score">Счёт:</string>
+    <string name="about">О себе:</string>
+    <string name="date">Дата рождения:</string>
+    <string name="city">Город:</string>
+    <string name="work">Место работы:</string>
+    <string name="phone">Телефон:</string>
+    <string name="social">Социальные сети:</string>
+    <string name="about_me">Про меня мало кто что-то значет. И это меня радует.</string>
+    <string name="title_news">Новости</string>
+    <string name="buy">Купить</string>
+    <string name="add_scores">Добавить баллы</string>
+    <string name="price">баллов</string>
+
+    <string-array name="category_names">
+        <item>ТЦ</item>
+        <item>Кинотеатры</item>
+        <item>Театры</item>
+        <item>Рестораны</item>
+        <item>Бары</item>
+    </string-array>
+
+    <string-array name="mall_subcategory">
+        <item>Тц "МегаГРИНН"</item>
+        <item>Тц "Рио"</item>
+        <item>Тц "Сити Молл Белгородский"</item>
+    </string-array>
+
+    <string-array name="movie_subcategory">
+        <item>Кинотеатр Радуга</item>
+        <item>Гринн Фильм</item>
+        <item>Русич</item>
+        <item>Синема Стар</item>
+        <item>Синема Парк</item>
+    </string-array>
+
+    <string-array name="theatre_subcategory">
+        <item>Белгородский государственный театр кукол</item>
+        <item>Белгородский государственный академический драматический театр им. М. С. Щепкина</item>
+        <item>Рукавичка</item>
+        <item>Новая сцена-2</item>
+    </string-array>
+
+    <string-array name="restaurant_subcategory">
+        <item>Галерея</item>
+        <item>ЕСТЬ TODAY</item>
+        <item>Корчма</item>
+        <item>Мама Мия</item>
+        <item>Место Гриль</item>
+    </string-array>
+
+    <string-array name="bar_subcategory">
+        <item>Домино</item>
+        <item>HookahPlace</item>
+        <item>Декабрист</item>
+        <item>Гвозди</item>
+        <item>CESKA PITNICA</item>
+    </string-array>
+</resources>
